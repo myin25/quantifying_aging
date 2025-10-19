@@ -1,1 +1,2 @@
 # quantifying_aging
+This is a compilation of the code I wrote while working at the Su Lab @ Scripps Research the summer before and during my senior year (June 2024 to December 2024). While working at the Su Lab, I implemented and compared various ways to quantify transcriptomic aging such as transcriptional drift variance, transcriptional noise, cell type balance, and differential gene expression.
